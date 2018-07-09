@@ -3,7 +3,7 @@
 # Unifi Sesnor polling script for use with Vera v1.03
 # Copy to /etc/cmh-ludl and grant execute permissions (Octal 0775)
 # Based on script found on Domoticz forum by "Salvation"
-# This version by LiveHouse Automation - support@livehouseautomation.com
+# This version by LiveHouse Automation - support@livehouseautomation.com.au
 
 # Parameters
 Device=$1
